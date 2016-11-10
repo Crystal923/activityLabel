@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ActivityLableTest</string>
+    <string name="goods_name">我是商品的标题呀哈哈哈哈哈哈啦啦啦啦啦！</string>
+    <string-array name="lable">
+        <item>双11</item>
+        <item>团购</item>
+        <item>活动</item>
+        <item>good</item>
+    </string-array>
 </resources>
