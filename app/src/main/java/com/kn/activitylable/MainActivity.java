@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         TextView tvGoodsName = (TextView) findViewById(R.id.tvGoodsName);
         String title = getResources().getString(R.string.goods_name);
         String[] lable = getResources().getStringArray(R.array.lable);
+        //这句一定要写哦，因为后面是在追加内容，不置空会出现问题的哈
         tvGoodsName.setText("");
         if (lable != null && lable.length > 0) {
             for (int i = 0; i < lable.length; i++) {
