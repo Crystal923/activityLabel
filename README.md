@@ -1,1 +1,4 @@
-# activityLable:
+## 项目开发说明  
+
+目前市场上的电商类APP层出不穷，风格也是各式各样，前些天做的一个电商类APP中有这样一个需求：在商品名称的前面显示一个活动标签，并且活动标签的数量不确定，商品名称可能是一行或者多行，
+![image](https://github.com/KN923/activityLable/img/a.png)
